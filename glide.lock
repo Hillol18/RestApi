@@ -1,0 +1,59 @@
+hash: 1ad538bd7099fbd120c35a830ab1b689ad611126f2ab5911c745fcb020563412
+updated: 2020-03-04T02:23:07.17848559+06:00
+imports:
+- name: github.com/aymerick/raymond
+  version: b565731e1464263de0bda75f2e45d97b54b60110
+  subpackages:
+  - ast
+  - lexer
+  - parser
+- name: github.com/cbroglie/mustache
+  version: 7b1d4169a94e60892a91e0006b31945c182d6345
+- name: github.com/eknkc/amber
+  version: cdade1c073850f4ffc70a829e31235ea6892853b
+  subpackages:
+  - parser
+- name: github.com/fasthttp/websocket
+  version: 2f79dd4fe29c6161f5913ceea5e68771ecee14f6
+- name: github.com/gofiber/fiber
+  version: d6f53561d95cc5dd5acba51b2327125b456b77e5
+- name: github.com/gofiber/template
+  version: dfdd3065484289c4bc13fb9066e917d221037a7d
+- name: github.com/gorilla/schema
+  version: 61751c9687439bf8cd824ad7eec0d21db1a1b804
+- name: github.com/jinzhu/gorm
+  version: 7180bd0f27d167f18c253c32d548c7de3adc6b0d
+  subpackages:
+  - dialects/postgres
+- name: github.com/jinzhu/inflection
+  version: 196e6ce06ca4513fbcfcbc35dc15f66074df47c9
+- name: github.com/Joker/jade
+  version: d475f43051e722977ea1bfa344e52b1bafd832ba
+- name: github.com/json-iterator/go
+  version: 7acbb404a45be33f136d6f16fe8f86ca30f1008d
+- name: github.com/klauspost/compress
+  version: 022415c7cabcefa1c24832ebdf8598a41008e77a
+  subpackages:
+  - flate
+  - gzip
+  - zlib
+- name: github.com/lib/pq
+  version: 99274577be97ac9b1d95a2d61d566dc9b7cc6a54
+  subpackages:
+  - hstore
+  - oid
+  - scram
+- name: github.com/modern-go/concurrent
+  version: bacd9c7ef1dd9b15be4a9909b8ac7a4e313eec94
+- name: github.com/modern-go/reflect2
+  version: 94122c33edd36123c84d5368cfb2b69df93a0ec8
+- name: github.com/savsgio/gotils
+  version: 90175b0fbe3f5e9074fb83224269d566156f1c47
+- name: github.com/valyala/bytebufferpool
+  version: cdfbe9377474227bb42120c1e22fd4433e7f69bf
+- name: github.com/valyala/fasthttp
+  version: 695f713fcf594b33fd8c126cfa8dc9f119d4391b
+  subpackages:
+  - fasthttputil
+  - stackless
+testImports: []

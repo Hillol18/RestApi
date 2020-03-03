@@ -1,0 +1,6 @@
+package: github.com/nafi/oj-testing
+import:
+- package: github.com/gofiber/fiber
+  version: ^1.6.0
+- package: github.com/lib/pq
+  version: ^1.3.0
